@@ -29,8 +29,8 @@
             <label for="fecha_alquiler" style="color: white;">Fecha de Alquiler:</label>
             <input type="date" id="fecha_alquiler" name="fecha_alquiler">
 			
-            <!--Este es el nuevo campo. Representa el numero de libros que ya ha aluqiado esta persona
-            Controlaremos que sea efectivamente un numero y que sea igual o menor que 3 (y mayor que 0)  -->
+            <!--Este es el nuevo campo. Representa el numero de libros que ya ha alquilado esta persona
+            Controlaremos que sea efectivamente un numero y que sea igual o menor que 3 (e igual o mayor que 0)  -->
             <label for="numlibros" style="color: white;">Número de libros ya alquilados:</label>
             <input type="text" id="numlibros" name="numlibros">
 
