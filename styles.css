@@ -12,10 +12,13 @@ body {
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	color: white;
+    border-style: solid;
+    border-color: rgb(70, 75, 151);
 }
 
 h1 {
-    color: #fff;
+    color: black;
+    text-align: center;
 }
 
 
@@ -50,3 +53,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #f2f5f2;
 }
+
